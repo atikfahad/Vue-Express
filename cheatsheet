@@ -1,0 +1,6 @@
+Vue-Cli : npm install -g vue-cli
+// vue list -> Available Options
+
+//GIT
+  git clone something.git
+  git status -> status of the git
