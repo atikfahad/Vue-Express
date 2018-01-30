@@ -20,3 +20,4 @@ Vue-Cli : npm install -g vue-cli
 
 // CORS (module) :-> onno server theke request ashar jonno
 // MORGAN (module) :-> request k log akare dekhai terminal e
+// AXIOS in client folder : http request to backend
